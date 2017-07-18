@@ -1,0 +1,10 @@
+{
+    "alias": "settings",
+    "name": "Settings",
+    "author": "xcms",
+    "description": "This is the description for the Settings module.",
+    "namespace": "Xcms\\Settings",
+    "version": "1.0",
+    "autoload": "psr-4",
+    "enabled": true
+}

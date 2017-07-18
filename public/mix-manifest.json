@@ -1,0 +1,6 @@
+{
+  "/js/app.js": "/js/app.js",
+  "/css/app.css": "/css/app.css",
+  "/vendor/core/js/datatables/datatable.ajax.js": "/vendor/core/js/datatables/datatable.ajax.js",
+  "/vendor/core/js/datatables/datatable.js": "/vendor/core/js/datatables/datatable.js"
+}
